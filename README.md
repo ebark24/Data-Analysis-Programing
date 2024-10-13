@@ -11,14 +11,10 @@
 Steps to build and/or run the software:
 
 1. You must have the proper Develop Enviorment set up (see section Below)
-2.
-3.
 
 Instructions for using the software:
 
 1. I set the program up so that it would first display trhe questions, and then the data related to that question, and then an explaination of what the conculsion based on the data is. In order to move to the next section just press enter
-2.
-3.
 
 ## Development Environment 
 
@@ -43,5 +39,4 @@ I found these websites useful in developing this software:
 The following items I plan to fix, improve, and/or add to this project in the future:
 
 * [I want to learn more about how to make the grapghs more visually appealing and the many options that are avalible for graphing ] 
-* [I want to learn about how to create relationships between different data sets so I can add more in the future] 
-* [ ]
+* [I want to learn about how to create relationships between different data sets so I can add more in the future]
